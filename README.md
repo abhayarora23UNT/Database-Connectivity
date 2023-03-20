@@ -2,8 +2,8 @@
 This project describes how to fetch records from mysql database using node js API
 
 
-Front End - Angular 12
-Backend End - Node JS and Express API
+Front End - Angular 12,HTML,CSS,
+Backend End - Node JS and Express API,
 Database - MYSQL
 
 
