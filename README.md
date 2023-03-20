@@ -40,3 +40,15 @@ Note: Port can be changed from (app-server.js) file
 
 
 Perform CRUD operations on UI and compare the results from mysql workbench.
+
+
+
+Screenshots : 
+
+![image](https://user-images.githubusercontent.com/10955528/226477070-392ee4b9-d452-4229-a112-20b45351f15e.png)
+
+![image](https://user-images.githubusercontent.com/10955528/226477163-9296ec1d-7eea-4fb4-9a36-642fa5d09f35.png)
+
+![image](https://user-images.githubusercontent.com/10955528/226477277-cb343ad2-06d9-44ee-85f6-1f3b83078fee.png)
+
+
