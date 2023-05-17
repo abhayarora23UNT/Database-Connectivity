@@ -1,5 +1,5 @@
 ### Database-Connectivity
-This project describes how to fetch records from mysql database using node js Rest API
+This project describes how to fetch records from mysql database using node js Rest API.
 
 
 * Front End - Angular 12,HTML,CSS,
